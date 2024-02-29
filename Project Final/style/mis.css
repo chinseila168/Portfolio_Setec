@@ -10,8 +10,12 @@ body{
             text-align: center; /* Center align text */
             padding: 400px; /* Add padding to the header */
             margin-bottom: 10px; /* Add margin at the bottom to separate header from content */
+            background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(../images/background.jpg);
         }
-
+        h1{
+            color: #fff;
+            text-decoration: none;
+        }
         .content_mis {
             font-size: 25px;
             text-align: justify; /* Set default text alignment to justify */
